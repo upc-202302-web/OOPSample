@@ -3,5 +3,5 @@
 ## About
 
 ## lotation
-this project is part 
-web
+this project is part of SI730 Organization.
+
